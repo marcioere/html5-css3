@@ -1,0 +1,26 @@
+body {
+    background-color: #f0d6e0;
+    margin-left: 30px;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.icone_contato {
+    width: 30px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
